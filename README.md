@@ -1,2 +1,2 @@
-# mithilesh.prakash.github.io
+# mithp.github.io
 Personal website under development
